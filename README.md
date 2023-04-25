@@ -3,3 +3,5 @@ Lands Of Legends is an ONLINE desktop MMORPG where you can explore a vast world,
 ### Download
 It's not open to public at moment...
 
+### Website prototype
+[Visite here the website prototype!](https://neopromic.github.io/landsoflegends-page/)
